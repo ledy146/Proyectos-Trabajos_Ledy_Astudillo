@@ -1,0 +1,33 @@
+# Carpeta de compilación de Maven
+target/
+
+# Archivos de configuración de Maven
+pom.xml.*
+release.properties
+pom.xml.releaseBackup
+
+# Archivos de configuración específicos de IDE para Maven
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Archivos de respaldo
+*~
+
+# Carpeta de informes de pruebas generados por Maven
+surefire-reports/
+
+# Carpeta de informes de cobertura generados por Maven
+target/
+
+# Archivos de configuración de Eclipse para Maven
+.classpath
+.project
+
+# Archivos de configuración de NetBeans para Maven
+nb-configuration.xml
+nbactions.xml
+
+# Carpeta de configuración de Gradle para Maven
+.gradle/
